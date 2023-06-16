@@ -1,0 +1,12 @@
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.deps.json
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.dll
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\bin\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.AssemblyInfoInputs.cache
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.AssemblyInfo.cs
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.dll
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\refint\Capa_Modelo.dll
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\valer\source\repos\Programacion_3_Clase_3\Lista_Simple\Capa_Modelo\obj\Debug\net6.0\ref\Capa_Modelo.dll
